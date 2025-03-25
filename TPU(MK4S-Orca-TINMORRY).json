@@ -1,0 +1,25 @@
+{
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_retraction_length": [
+        "1.4"
+    ],
+    "filament_settings_id": [
+        "TPU(MK4S-Orca-TINMORRY)"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "inherits": "Prusa Generic TPU @MK4",
+    "is_custom_defined": "0",
+    "name": "TPU(MK4S-Orca-TINMORRY)",
+    "nozzle_temperature": [
+        "225"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "225"
+    ],
+    "version": "2.2.0.4"
+}

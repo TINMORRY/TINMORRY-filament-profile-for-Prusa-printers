@@ -1,0 +1,34 @@
+{
+    "filament_max_volumetric_speed": [
+        "8"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "PLA-Silk(MK4S-Orca-TINMORRY)"
+    ],
+    "filament_z_hop": [
+        "0.4"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "65"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "65"
+    ],
+    "inherits": "Prusa Generic PLA @MK4",
+    "is_custom_defined": "0",
+    "name": "PLA-Silk(MK4S-Orca-TINMORRY)",
+    "nozzle_temperature_range_low": [
+        "200"
+    ],
+    "slow_down_layer_time": [
+        "12"
+    ],
+    "version": "2.2.0.4"
+}
