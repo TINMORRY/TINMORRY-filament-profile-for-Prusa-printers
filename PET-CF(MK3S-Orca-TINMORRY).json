@@ -1,0 +1,22 @@
+{
+    "fan_cooling_layer_time": [
+        "15"
+    ],
+    "fan_max_speed": [
+        "40"
+    ],
+    "fan_min_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "PET-CF(MK3S-Orca-TINMORRY)"
+    ],
+    "from": "User",
+    "inherits": "Prusa Generic PA-CF",
+    "is_custom_defined": "0",
+    "name": "PET-CF(MK3S-Orca-TINMORRY)",
+    "slow_down_layer_time": [
+        "5"
+    ],
+    "version": "2.2.0.4"
+}
